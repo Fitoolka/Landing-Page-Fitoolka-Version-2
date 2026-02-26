@@ -409,7 +409,7 @@ input_1.addEventListener("focus", () => {
 
 
 function abrirWhatsapp(){
-  window.open("https://wa.me/573007476818", "_blank");
+  window.open("https://wa.me/573007476818?text=Hola%20equipo%20de%20Fitoolka.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20informaci%C3%B3n", "_blank");
 }
 
 
